@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+.vscode/
+*.log
+*.tmp
+.DS_Store
+node_modules/
+*.swp
+*.swo
+*~
+.env
+application-local.yml
